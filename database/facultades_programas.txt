@@ -1,0 +1,69 @@
+Facultad de Ciencias Sociales
+Programa de Psicología
+Programa de Sociología
+Programa de Trabajo Social
+Programa de Antropología
+Programa de Comunicación
+
+Facultad de Ciencias Naturales
+Programa de Biología
+Programa de Química
+Programa de Física
+Programa de Geología
+Programa de Ciencias Ambientales
+
+Facultad de Ingeniería
+Programa de Ingeniería Civil
+Programa de Ingeniería Electrónica
+Programa de Ingeniería de Sistemas
+Programa de Ingeniería Mecánica
+Programa de Ingeniería Industrial
+
+Facultad de Medicina
+Programa de Medicina General
+Programa de Enfermería
+Programa de Odontología
+Programa de Farmacia
+Programa de Terapia Física
+
+Facultad de Derecho
+Programa de Derecho Penal
+Programa de Derecho Civil
+Programa de Derecho Internacional
+Programa de Derecho Laboral
+Programa de Derecho Constitucional
+
+Facultad de Artes
+Programa de Bellas Artes
+Programa de Música
+Programa de Teatro
+Programa de Danza
+Programa de Diseño Gráfico
+
+Facultad de Educación
+Programa de Educación Primaria
+Programa de Educación Secundaria
+Programa de Educación Especial
+Programa de Psicopedagogía
+Programa de Administración Educativa
+
+Facultad de Ciencias Económicas
+Programa de Administración de Empresas
+Programa de Contabilidad
+Programa de Economía
+Programa de Mercadotecnia
+Programa de Finanzas
+
+Facultad de Arquitectura
+Programa de Arquitectura
+Programa de Urbanismo
+Programa de Diseño de Interiores
+Programa de Paisajismo
+Programa de Restauración de Patrimonio
+
+Facultad de Tecnología
+Programa de Desarrollo de Software
+Programa de Redes y Telecomunicaciones
+Programa de Ciberseguridad
+Programa de Inteligencia Artificial
+Programa de Big Data 
